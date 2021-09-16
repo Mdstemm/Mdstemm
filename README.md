@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mdstemm, Mitchell Stemm
+- 👋 Hi, I’m Mitchell Stemm aka @mdstemm
 - I'm studying Computer Science at Kent State Univericty
 - With a concentration in information security
 
