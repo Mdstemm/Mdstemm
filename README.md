@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mitchell Stemm aka @mdstemm
-- I'm studying Computer Science at Kent State Univericty
+- 👋 Hi, I’m Mitch aka @mdstemm
+- I'm studying Computer Science at Kent State University
 - With a concentration in information security
 
 <!---
